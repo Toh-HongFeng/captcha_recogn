@@ -1,0 +1,3 @@
+*.pdf
+old_data_model/*.zip
+*.keras
